@@ -1,0 +1,8 @@
+﻿  main.cpp
+E:\Projekty\Studia\Architektury i Struktury Danych\Laboratoria\Laboratoria\Functions.h(292,29): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+E:\Projekty\Studia\Architektury i Struktury Danych\Laboratoria\Laboratoria\Functions.h(309,10): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+E:\Projekty\Studia\Architektury i Struktury Danych\Laboratoria\Laboratoria\main.cpp(10,15): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+E:\Projekty\Studia\Architektury i Struktury Danych\Laboratoria\Laboratoria\main.cpp(13,18): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+E:\Projekty\Studia\Architektury i Struktury Danych\Laboratoria\Laboratoria\main.cpp(22,61): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+E:\Projekty\Studia\Architektury i Struktury Danych\Laboratoria\Laboratoria\main.cpp(23,50): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  Laboratoria.vcxproj -> E:\Projekty\Studia\Architektury i Struktury Danych\Laboratoria\Debug\Laboratoria.exe
