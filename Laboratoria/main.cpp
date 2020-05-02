@@ -16,16 +16,17 @@ int main(){
 	add(L3, 5);
 
 	node* L4 = NULL;
-	add(L4, 22);
-	add(L4, 12);
 	add(L4, 8);
 	add(L4, 5);
 	add(L4, 18);
 	add(L4, 5);
+	add(L4, 22);
 	add(L4, 8);
 	add(L4, 6);
 	add(L4, 3);
 	add(L4, 5);
+	add(L4, 12);
+
 
 	node* L5 = NULL;
 	add(L5, 25);
@@ -44,11 +45,26 @@ int main(){
 	add(L7, 55);
 	add(L7, 8);
 
+	node* L8 = NULL;
+	add(L8, 9);
+	add(L8, 2);
+	add(L8, 9);
+	add(L8, 5);
+	add(L8, 3);
+	add(L8, 2);
+	add(L8, 4);
+	add(L8, 55);
+	add(L8, 24);
+	add(L8, 12);
+	add(L8, 32);
+
 	cout << "Przed uzyciem funkcji: ";
-	show(L4);
+	show(L8);
 	cout << endl << "Po uzyciu funkcji: ";
-	changeFirstWithLast(L4);
-	show(L4);
+	fromHigherToLower(L8);
+	show(L8);
+
+
 
 
 	//Stack
